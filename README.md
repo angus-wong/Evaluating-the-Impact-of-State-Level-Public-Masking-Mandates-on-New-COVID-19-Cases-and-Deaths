@@ -6,4 +6,4 @@ Affiliation: University of Massachusetts Amherst, School of Public Health and He
 
 Author: Angus K. Wong, Laura B. Balzer
 
-Overview: This repository contains analysis code for corresponding project titled above. Additional requests or questions on avaiable data and code can be requested by contacted associated authors.
+Overview: This repository contains analysis code for corresponding project titled above. Additional questions on available data and code can be requested by contacting associated authors.
